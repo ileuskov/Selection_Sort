@@ -8,7 +8,6 @@ public class Sort {
         for (int i = 0; i < arr.length; i++) {
             System.out.print(arr[i] + " ");
         }
-        System.out.println("\n");
     }
 
     public void selection_sort() { // A method that sorts all the elements of an array by selecting the smallest number and putting it in the beginning of the array
