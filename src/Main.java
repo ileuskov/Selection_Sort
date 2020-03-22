@@ -26,7 +26,7 @@ public class Main {
 
         System.out.println("And now you see a sorted version of it: ");
         System.out.print("[ ");
-        a.print(); // Calling a print method to show how the sorted array look like
+        a.print(); // Calling a print method to show how the sorted array looks like
         System.out.println("]");
     }
 }
